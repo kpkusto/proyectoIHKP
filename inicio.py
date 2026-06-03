@@ -49,7 +49,7 @@ while True:
         case 3:
             print("Ingreso a la opcion 3")
         case 4:
-            print("             Saliendo del programa...")
+            print("             Saliendo del programa...        ")
             break
         case _:
             print(" Opcion invalida. Intente nuevamente.")
