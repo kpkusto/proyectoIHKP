@@ -1,0 +1,4 @@
+2026-06-18 ERROR login fallido usuario admin IP 192.168.1.10
+2026-06-18 INFO acceso exitoso usuario juan IP 10.0.0.5
+2026-06-18 WARNING intento ssh fallido IP 8.8.8.8
+2026-06-18 ERROR password incorrecta usuario root IP 192.168.1.20
