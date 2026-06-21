@@ -1,4 +1,40 @@
-2026-06-18 ERROR login fallido usuario admin IP 192.168.1.10
-2026-06-18 INFO acceso exitoso usuario juan IP 10.0.0.5
-2026-06-18 WARNING intento ssh fallido IP 8.8.8.8
-2026-06-18 ERROR password incorrecta usuario root IP 192.168.1.20
+
+
+2026-06-20,23:20:01,INFO,127.0.0.1,Usuario inició sesión correctamente
+2026-06-20,23:20:02,WARNING,192.168.1.10,Intento de acceso fallido
+2026-06-20,23:20:03,ERROR,192.168.1.20,Acceso denegado por contraseña incorrecta
+2026-06-20,23:20:04,INFO,8.8.8.8,Conexión externa detectada
+2026-06-20,23:20:05,WARNING,10.0.0.5,Múltiples intentos de login
+2026-06-20,23:20:06,ERROR,172.16.0.3,Bloqueo de cuenta por intentos fallidos
+2026-06-21,14:14:59,INFO,179.26.130.29,Sistema iniciado
+2026-06-21,14:15:46,WARNING,179.26.130.29,Programa interrumpido por el usuario
+2026-06-21,14:15:46,INFO,179.26.130.29,Sistema iniciado
+2026-06-21,14:15:51,WARNING,179.26.130.29,Programa interrumpido por el usuario
+2026-06-21,14:15:51,INFO,179.26.130.29,Sistema iniciado
+2026-06-21,14:16:10,WARNING,179.26.130.29,Programa interrumpido por el usuario
+2026-06-21,14:16:11,INFO,179.26.130.29,Sistema iniciado
+2026-06-21,14:16:17,WARNING,179.26.130.29,Programa interrumpido por el usuario
+2026-06-21,14:16:18,INFO,179.26.130.29,Sistema iniciado
+2026-06-21,14:16:30,WARNING,179.26.130.29,Programa interrumpido por el usuario
+2026-06-21,14:16:30,INFO,179.26.130.29,Sistema iniciado
+2026-06-21,14:16:36,WARNING,179.26.130.29,Programa interrumpido por el usuario
+2026-06-21,14:16:36,INFO,179.26.130.29,Sistema iniciado
+2026-06-21,14:29:32,WARNING,179.26.130.29,Programa interrumpido por el usuario
+2026-06-21,14:29:33,INFO,179.26.130.29,Sistema iniciado
+2026-06-21,14:29:41,INFO,179.26.130.29,1) Mostrar todos los logs
+2026-06-21,14:30:01,INFO,179.26.130.29,1) Mostrar todos los logs
+2026-06-21,14:30:04,INFO,179.26.130.29,Opción 5 - Salir
+2026-06-21,14:30:04,INFO,179.26.130.29,Sistema cerrado
+2026-06-21,14:40:50,INFO,179.26.130.29,  Sistema iniciado    
+2026-06-21,14:40:52,WARNING,179.26.130.29,Programa interrumpido por el usuario
+2026-06-21,14:40:53,INFO,179.26.130.29,  Sistema iniciado    
+2026-06-21,14:40:55,INFO,179.26.130.29,-------> 1) Mostrar todos los logs
+2026-06-21,14:41:08,INFO,179.26.130.29,----------> 2) Buscar por tipo INFO
+2026-06-21,14:41:23,INFO,179.26.130.29,----------> 2) Buscar por tipo WARNING
+2026-06-21,14:41:33,INFO,179.26.130.29,----------> 2) Buscar por tipo ERROR
+2026-06-21,14:41:54,INFO,179.26.130.29, -------> 3) Buscar por IP 192.172.1.10
+2026-06-21,14:42:10,INFO,179.26.130.29, -------> 3) Buscar por IP 192.168.1.20
+2026-06-21,14:42:18,INFO,179.26.130.29,--------> 4) Detectar IPs sospechosas
+2026-06-21,14:42:24,INFO,179.26.130.29,--------> 4) Detectar IPs sospechosas
+2026-06-21,14:42:26,INFO,179.26.130.29,--------> 5)Salir
+2026-06-21,14:42:26,INFO,179.26.130.29,  Sistema cerrado 
