@@ -33,7 +33,6 @@ def menu_inicio():
     print("                                                                                                                                  ")
     print("                                                                                                                                  ")
 
-
 def main():
     ip = obtener_ip()
     print(f"\n  Sistema iniciado. IP Detectada: {ip}\n")
@@ -104,9 +103,9 @@ def main():
                 case 5:
                     limpiar_consola()
                     print("======= 5) Salir del sistema ========\n")
-                    analizador.registrar_log("INFO", ip, "--------> 5)Salir")
+                    analizador.registrar_log("INFO", ip, "  5)Salir")
                     analizador.registrar_log("INFO", ip, "  Sistema cerrado ")
-                    print("\n   Cerrando el sistema. Hasta luego.")
+                    print("\n ---------> Cerrando el sistema. Hasta luego.")
                     break
 
                 case _:
@@ -133,5 +132,7 @@ def main():
             print("=========== Error inesperado ==========\n")
             analizador.registrar_log("ERROR", ip, f"Error inesperado: {e}")
             print(f"--------> Error inesperado: {e}")
+
+    input("Presione Enter para cerrar...")
 
 main()

@@ -38,3 +38,53 @@
 2026-06-21,14:42:24,INFO,179.26.130.29,--------> 4) Detectar IPs sospechosas
 2026-06-21,14:42:26,INFO,179.26.130.29,--------> 5)Salir
 2026-06-21,14:42:26,INFO,179.26.130.29,  Sistema cerrado 
+2026-06-21,15:10:23,INFO,179.26.130.29,  Sistema iniciado    
+2026-06-21,15:10:25,WARNING,179.26.130.29,Programa interrumpido por el usuario
+2026-06-21,15:10:26,INFO,179.26.130.29,  Sistema iniciado    
+2026-06-21,15:10:29,INFO,179.26.130.29,-------> 1) Mostrar todos los logs
+2026-06-21,15:10:35,INFO,179.26.130.29,----------> 2) Buscar por tipo INFO
+2026-06-21,15:10:39,ERROR,179.26.130.29,Entrada inválida (no numérica)
+2026-06-21,15:10:50,INFO,179.26.130.29,----------> 2) Buscar por tipo WARNING
+2026-06-21,15:10:58,INFO,179.26.130.29,----------> 2) Buscar por tipo ERROR
+2026-06-21,15:14:11,INFO,179.26.130.29, -------> 3) Buscar por IP 192.168.1.20
+2026-06-21,15:14:18,INFO,179.26.130.29,--------> 4) Detectar IPs sospechosas
+2026-06-21,15:14:22,INFO,179.26.130.29,  5)Salir
+2026-06-21,15:14:22,INFO,179.26.130.29,  Sistema cerrado 
+2026-06-21,16:01:55,INFO,179.26.130.29,  Sistema iniciado    
+2026-06-21,16:02:02,WARNING,179.26.130.29,Programa interrumpido por el usuario
+2026-06-21,16:02:03,INFO,179.26.130.29,  Sistema iniciado    
+2026-06-21,16:02:05,INFO,179.26.130.29,-------> 1) Mostrar todos los logs
+2026-06-21,16:02:11,INFO,179.26.130.29,----------> 2) Buscar por tipo INFO
+2026-06-21,16:05:36,INFO,179.26.130.29,  Sistema iniciado    
+2026-06-21,16:05:43,INFO,179.26.130.29,----------> 2) Buscar por tipo INFO
+2026-06-21,16:05:48,INFO,179.26.130.29,----------> 2) Buscar por tipo WARNING
+2026-06-21,16:05:51,INFO,179.26.130.29,----------> 2) Buscar por tipo ERROR
+2026-06-21,16:05:59,INFO,179.26.130.29, -------> 3) Buscar por IP 192.168.1.20
+2026-06-21,16:06:04,INFO,179.26.130.29,--------> 4) Detectar IPs sospechosas
+2026-06-21,16:06:06,INFO,179.26.130.29,  5)Salir
+2026-06-21,16:06:06,INFO,179.26.130.29,  Sistema cerrado 
+2026-06-21,18:12:12,INFO,179.26.130.29,  Sistema iniciado    
+2026-06-21,18:12:15,WARNING,179.26.130.29,Programa interrumpido por el usuario
+2026-06-21,18:12:16,INFO,179.26.130.29,  Sistema iniciado    
+2026-06-21,18:12:21,INFO,179.26.130.29,-------> 1) Mostrar todos los logs
+2026-06-21,18:12:41,INFO,179.26.130.29,----------> 2) Buscar por tipo ERROR
+2026-06-21,18:12:52,INFO,179.26.130.29,  5)Salir
+2026-06-21,18:12:52,INFO,179.26.130.29,  Sistema cerrado 
+2026-06-22,22:53:17,INFO,179.25.78.193,  Sistema iniciado    
+2026-06-22,22:53:20,INFO,179.25.78.193,-------> 1) Mostrar todos los logs
+2026-06-22,22:53:29,INFO,179.25.78.193,----------> 2) Buscar por tipo INFO
+2026-06-22,22:53:34,INFO,179.25.78.193,----------> 2) Buscar por tipo ERROR
+2026-06-22,22:53:38,INFO,179.25.78.193,----------> 2) Buscar por tipo WARNING
+2026-06-22,22:53:46,INFO,179.25.78.193, -------> 3) Buscar por IP 192.168.1.20
+2026-06-22,22:53:49,INFO,179.25.78.193,--------> 4) Detectar IPs sospechosas
+2026-06-22,22:53:52,INFO,179.25.78.193,  5)Salir
+2026-06-22,22:53:52,INFO,179.25.78.193,  Sistema cerrado 
+2026-06-23,14:41:04,INFO,167.57.176.212,  Sistema iniciado    
+2026-06-23,14:41:09,INFO,167.57.176.212,-------> 1) Mostrar todos los logs
+2026-06-23,14:41:16,INFO,167.57.176.212,----------> 2) Buscar por tipo INFO
+2026-06-23,14:41:20,INFO,167.57.176.212,----------> 2) Buscar por tipo WARNING
+2026-06-23,14:41:25,INFO,167.57.176.212,----------> 2) Buscar por tipo ERROR
+2026-06-23,14:41:34,INFO,167.57.176.212, -------> 3) Buscar por IP 172.0.0.1
+2026-06-23,14:41:36,INFO,167.57.176.212,--------> 4) Detectar IPs sospechosas
+2026-06-23,14:41:38,INFO,167.57.176.212,  5)Salir
+2026-06-23,14:41:38,INFO,167.57.176.212,  Sistema cerrado 

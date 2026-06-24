@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=SIHKP
+Exec=gnome-terminal -- /home/andromeda/Documentos/directorio_general/dist/SIHKP
+Type=Application
+Terminal=true
+Icon=utilities-terminal
